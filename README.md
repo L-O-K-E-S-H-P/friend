@@ -1,1 +1,1 @@
-# friend
+Virtual_friend
